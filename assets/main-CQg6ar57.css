@@ -11,3 +11,5 @@ form > .inline-block[data-cursor="hover"] > button[type="submit"] {
 }
 /* Cursor wieder sichtbar machen (Custom-Cursor-Override aufheben) */
 form button[type="submit"].cursor-none { cursor: pointer; }
+/* Pfeil im "Nachricht senden"-Button ausblenden */
+form button[type="submit"] svg.lucide-arrow-right { display: none; }

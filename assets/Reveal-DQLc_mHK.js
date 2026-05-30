@@ -1,1 +1,0 @@
-import{j as n,m as a}from"./index-Dof1nOZg.js";function s({children:i,className:t="",delay:o=0,y:e=40}){return n.jsx(a.div,{className:t,initial:{opacity:0,y:e},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:"-80px"},transition:{duration:.7,delay:o,ease:[.22,1,.36,1]},children:i})}export{s as R};
